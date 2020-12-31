@@ -1,0 +1,24 @@
+{
+
+  "dummyData": [
+    
+    {
+      "id": 1,
+      "data": "this is dummy data 1"
+    },
+    
+    
+    {
+      "id": 2,
+      "data": "this is dummy data 2"
+    },
+    
+    
+    {
+      "id": 3,
+      "data": "this is dummy data 3"
+    },
+    
+  ]
+
+}
